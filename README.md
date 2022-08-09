@@ -8,34 +8,37 @@ After completing my initial analysis, I was given two new assignments: determine
 -	There are 133,776 instances of retiring employees born between January 1, 1952 and December 31, 1955; however, the results include employees who have left the company and all titles employees held, not just their most recent. The top ten results are shown below.
  
 <picture>
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/ Pewlett-Hackard-Analysis /Analysis/retirement_titles.png">
-<img alt=" Shows the top ten results of titles for all employees born between January 1, 1952 and December 31, 1955 ."/>
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/PyBer_Analysis/raw/main/Resources/pyber_summary_df.png">
+<img alt=" Shows the ride, driver, fare, and average far summaries by city type."/>
 
-</picture> 
+</picture>
 
 -	There are 72,458 retiring employees born between January 1, 1952 and December 31, 1955; these results exclude employees who have left the company and include the most recent title of each employee. The top ten results are shown below.
  
 <picture>
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/ Pewlett-Hackard-Analysis /Analysis/unique_titles.png">
-<img alt=" Shows the top ten results of the most recent titles for all retiring employees born between January 1, 1952 and December 31, 1955 ."/>
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/PyBer_Analysis/raw/main/Resources/pyber_summary_df.png">
+<img alt=" Shows the ride, driver, fare, and average far summaries by city type."/>
 
-</picture> 
+</picture>
+ 
 
 -	The 72,458 retiring employees born between January 1, 1952 and December 31, 1955, can be summarized by their most recent job title as shown below
  
 <picture>
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/ Pewlett-Hackard-Analysis /Analysis/retiring_titles.png">
-<img alt=" Shows the summary total by most recent titles for all retiring employees born between January 1, 1952 and December 31, 1955 ."/>
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/PyBer_Analysis/raw/main/Resources/pyber_summary_df.png">
+<img alt=" Shows the ride, driver, fare, and average far summaries by city type."/>
 
-</picture> 
+</picture>
+ 
 
 -	There are 1,549 employees eligible to participate in a mentorship program; the results include employees whose birth dates are between January 1, 1965 and December 31, 1965. The top ten results are shown below.
  
 <picture>
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/ Pewlett-Hackard-Analysis /Analysis/membership_eligibility.png">
-<img alt=" Shows the top ten results for employees born between January 1, 1965 and December 31, 1965 who are able to participate in a mentorship program ."/>
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/PyBer_Analysis/raw/main/Resources/pyber_summary_df.png">
+<img alt=" Shows the ride, driver, fare, and average far summaries by city type."/>
 
-</picture> 
+</picture>
+
 
 
 ##  Summary
