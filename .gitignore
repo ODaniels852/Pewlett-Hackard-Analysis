@@ -15,8 +15,8 @@ salaries.csv
 titles.csv
 schema.sql
 queries.sql
-employeeDB_Schema.txt
-employeeDB_Schema.png
+EmployeeDB_Schema.txt
+EmployeeDB.png.png
 
 # C extensions
 *.so
